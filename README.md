@@ -18,6 +18,8 @@ PA-1_Ivie-Imhonde/ │-- src/ │ │-- main/ │ │ │-- assignment_1.py # Ma
 
 
 ---
+## To execute the numerical methods, run:
+python src/main/assignment_1.py
 
 ##  Installation & Setup
 
@@ -27,5 +29,4 @@ Run the following command to install them:
 ```bash
 pip install -r requirements.txt
 
-## To execute the numerical methods, run:
-python src/main/assignment_1.py
+
